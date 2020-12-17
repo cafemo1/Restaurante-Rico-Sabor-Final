@@ -1,0 +1,258 @@
+@charset "utf-8";
+/* CSS Document */
+#body{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+#container{
+    width: 1144px;
+    height: 1607px;
+    background-color: #FF9A3E;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    width: 1144px;
+    height: 8px;
+    float: left;
+    background-color: #FF9A3E;
+    background-image: url(../img/barralinea.jpg);
+    margin-top: 0px;
+}
+#nav{
+    width: 1144px;
+    height: 120px;
+    margin-top: -8px;
+    background-color: #FFFFFF;
+}
+#logo{
+    margin-top: -64px;
+    margin-left: 35px;
+}
+#nav ul{
+    list-style-type: none;
+}
+#nav ul li{
+    display: inline-block;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: 47px;
+    margin-left: 410px;
+    margin-right: -410px;
+    margin-bottom: 0px;
+}
+#nav ul li a{
+    text-decoration: none;
+    background-color: #F49819;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 15px;
+    color: #FFFFFF;
+    padding-top: 55px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 45px;
+    border-radius: 0px;
+}
+#nav ul li a:hover{
+    background-color: #9D4D1D;
+    color: #FBFBFB;
+}
+#footer{
+    float: left;
+    width: 1144px;
+    height: 257px;
+    background-color: #F49819;
+    margin-top: 1215px;
+}
+#article{
+    float: left;
+    width: 1144px;
+    height: 1215px;
+    background-color: #FFFFFF;
+    margin-top: 5px;
+    color: #FDFDFD;
+    text-decoration: none;
+}
+#h1{
+    color: #272626;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-top: 11px;
+}
+#saludo{
+    color: #272626;
+    text-align: center;
+    margin-left: 163px;
+    margin-right: 163px;
+}
+#entradas{
+    width: 350px;
+    height: 293px;
+    background-color: #FFFFFF;
+    margin-left: 22px;
+    margin-top: 52px;
+}
+#img-entradas{
+    width: 350px;
+    height: 293px;
+    background-image: url(../img/thumb_entradas.jpg);
+}
+#titulo-entradas{
+    color: #4D4B4B;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 12px;
+}
+#comentario{
+    color: #5E5757;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    margin-left: 12px;
+    margin-right: 13px;
+    text-align: center;
+}
+#criollas{
+    width: 350px;
+    height: 567px;
+    background-color: #FFFFFF;
+    margin-left: 396px;
+    margin-top: -292px;
+}
+#img-criollas{
+    width: 350px;
+    height: 293px;
+    background-image: url(../img/thumb_criollos.jpg);
+}
+#titulo-criollas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #4D4B4B;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 12px;
+    text-align: center;
+}
+#pastas{
+    width: 350px;
+    height: 567px;
+    background-color: #FFFFFF;
+    margin-left: 772px;
+    margin-top: -566px;
+}
+#img-pastas{
+    width: 350px;
+    height: 293px;
+    background-image: url(../img/thumb_pastas.jpg);
+}
+#titulo-pastas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #4D4B4B;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 12px;
+    text-align: center;
+}
+#pie{
+    width: 1144px;
+    height: 255px;
+    margin-top: 1220px;
+}
+#mapa{
+    width: 350px;
+    height: 200px;
+    margin-left: 170px;
+    margin-top: 0px;
+}
+#elementos_sitio{
+    width: 350px;
+    height: 113px;
+    margin-left: 170px;
+    margin-top: -100px;
+}
+#datos{
+    width: 350px;
+    height: 200px;
+    margin-left: 700px;
+    margin-top: -215px;
+    color: #FFFFFF;
+}
+#direccion{
+    width: 350px;
+    height: 200px;
+    margin-left: 700px;
+    margin-top: -110px;
+    color: #FFFFFF;
+}
+#copyright{
+    width: 1144px;
+    text-align: center;
+    background-color: #6C3A16;
+    color: #FFFFFF;
+    padding-bottom: 43px;
+    margin-top: -31px;
+    height: 0px;
+    margin-left: 0px;
+}
+#titulo{
+    width: 100%;
+    background-color: #503007;
+    height: 130px;
+    background-image: url(../img/mosotros/cabecera_nostros.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: table;
+    text-align: center;
+}
+.subtitulo{
+    color: #FFFFFF;
+    text-aling: center;
+    display: table-cell;
+    margin: auto;
+    vertical-align: middle;
+}
+#contenido{
+    color: #3F190B;
+}
+.foto01{
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    margin-top: -30px;
+    margin-right: -30px;
+    margin-left: -30px;
+    margin-bottom: -30px;
+    solid black;
+    float: right;
+    width: 250px;
+}
+.foto02{
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    margin-top: -30px;
+    margin-right: -30px;
+    margin-left: -30px;
+    margin-bottom: -30px;
+    solid black;
+    float: right;
+    width: 250px;
+}
+.foto03{
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    margin-top: -30px;
+    margin-right: -30px;
+    margin-left: -30px;
+    margin-bottom: -30px;
+    solid black;
+    float: right;
+    width: 250px;
+}
